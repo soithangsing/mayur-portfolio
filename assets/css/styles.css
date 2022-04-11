@@ -575,7 +575,7 @@ body.light-theme{
 .experience__container{
   /* padding-top: 1rem; */
   background-color: var(--container-color);
-  padding:1.5rem;
+  padding:2rem;
   border-radius: 1.25rem;
 }
 
