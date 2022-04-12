@@ -1,0 +1,1 @@
+I hope you like the portfolio website and can customise it yourself. It's pretty straightforward HTML editing. Wishing you the best! ~ Soi
